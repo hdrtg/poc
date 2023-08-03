@@ -1,9 +1,21 @@
 <kml xmlns="http://www.opengis.net/kml/2.2"><Document>
-<Placemark>
+<IconStyle>
+
+   <Icon>
+       <href>http://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png </href>
+    </Icon>
+  </IconStyle>
+</Style>
 <ExtendedData>
   <Data name="Store"><value>Memphis</value></Data></ExtendedData>
   <Point><coordinates>-89.82666,35.18071</coordinates></Point></Placemark>
-<Placemark>
+<IconStyle>
+
+   <Icon>
+       <href>http://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png </href>
+    </Icon>
+  </IconStyle>
+</Style>
 <ExtendedData>
   <Data name="Store"><value>Southaven</value></Data></ExtendedData>
   <Point><coordinates>-89.99736,34.93788</coordinates></Point></Placemark></Document></kml>
