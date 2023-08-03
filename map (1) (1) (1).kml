@@ -1,5 +1,4 @@
-  
-<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><Placemark><Style>
+ <?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><Placemark><Style>
 <IconStyle>
 <scale>0.5</scale>
    <Icon>
@@ -15,4 +14,4 @@
     </Icon>
   </IconStyle>
 </Style>
-<ExtendedData><Data name="Showroom"><value>SOUTHAVEN</value></Data></ExtendedData><Point><coordinates>-89.99736,34.93788</coordinates></Point></Placemark><Placemark><Style></Document></kml>
+<ExtendedData><Data name="Showroom"><value>SOUTHAVEN</value></Data></ExtendedData><Point><coordinates>-89.99736,34.93788</coordinates></Point></Placemark><Placemark></Document></kml>
