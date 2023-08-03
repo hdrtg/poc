@@ -1,0 +1,17 @@
+ <?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><Placemark><Style>
+<IconStyle>
+<scale>0.5</scale>
+   <Icon>
+       <href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png </href>
+    </Icon>
+  </IconStyle>
+</Style>
+<ExtendedData><Data name="Showroom"><value>MEMPHIS</value></Data></ExtendedData><Point><coordinates>-89.82666,35.18071</coordinates></Point></Placemark><Placemark><Style>
+<IconStyle>
+<scale>0.5</scale>
+   <Icon>
+       <href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png </href>
+    </Icon>
+  </IconStyle>
+</Style>
+<ExtendedData><Data name="Showroom"><value>SOUTHAVEN</value></Data></ExtendedData><Point><coordinates>-89.99736,34.93788</coordinates></Point></Placemark></Document></kml>
